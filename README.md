@@ -34,7 +34,7 @@ Tic Tac Toe game is a modern take on the classic game, designed to provide an in
 Check out the live demo of the Tic Tac Toe game [here](https://chimerical-queijadas-001a89.netlify.app/).
 
 ## Demo Video
-
+Watch the video as I explain about my project.
 <div align="center">
   <a href="https://youtu.be/CSmRRupvHu0" target="_blank">
     <img src="https://img.youtube.com/vi/CSmRRupvHu0/0.jpg" alt="Tic Tac Toe Demo Video" />
